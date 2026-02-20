@@ -181,10 +181,10 @@ python3 analyze_images.py \
 
 ### 沈向洋/华刚"十个问题"
 
-**关于问题本身**:
-1. Input/Output - 输入和输出是什么？
-2. Novelty - 全新问题还是旧问题的新解法？
-3. Importance - 为什么这个问题现在依然重要？
+**关于问题本身**:  
+1. Input/Output - 输入和输出是什么？  
+2. Novelty - 全新问题还是旧问题的新解法？  
+3. Importance - 为什么这个问题现在依然重要？  
 
 **关于解决方案与相关工作**:  
 4. Related Work - 关键人物和相关研究  
