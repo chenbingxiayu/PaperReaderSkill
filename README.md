@@ -186,18 +186,18 @@ python3 analyze_images.py \
 2. Novelty - 全新问题还是旧问题的新解法？
 3. Importance - 为什么这个问题现在依然重要？
 
-**关于解决方案与相关工作**:
-4. Related Work - 关键人物和相关研究
-5. Solution - 核心技术方案
-6. Experiments - 实验设计和质量
+**关于解决方案与相关工作**:  
+4. Related Work - 关键人物和相关研究  
+5. Solution - 核心技术方案  
+6. Experiments - 实验设计和质量  
 
-**关于验证与评价**:
-7. Data - 数据集选择和可信度
-8. Validation - 实验结果对假设的支持力度
+**关于验证与评价**:  
+7. Data - 数据集选择和可信度  
+8. Validation - 实验结果对假设的支持力度  
 
-**关于总结与展望**:
-9. Contribution - 客观认定的贡献
-10. Next Step - 潜在的后续工作方向
+**关于总结与展望**:  
+9. Contribution - 客观认定的贡献  
+10. Next Step - 潜在的后续工作方向  
 
 ### 阅读四段位
 
