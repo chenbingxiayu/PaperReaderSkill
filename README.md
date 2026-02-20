@@ -199,6 +199,7 @@ python3 analyze_images.py \
 8. Validation - 实验结果对假设的支持力度  
 
 **关于总结与展望**:  
+
 9. Contribution - 客观认定的贡献  
 10. Next Step - 潜在的后续工作方向  
 
