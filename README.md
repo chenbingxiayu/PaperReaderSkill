@@ -326,7 +326,7 @@ paper-reader/
 
 - **王鑫**: 如何阅读学术论文 - (https://qclab.wang/post/reading/)
 - **沈向洋、华刚**: 读科研论文的三个层次、四个阶段与十个问题-(https://zhuanlan.zhihu.com/p/163227375)
-- **S. Keshav**: "How to Read a Paper"-(https://baoyu.io/translations/learning/how-to-read-a-paper)
+- **S. Keshav**: "How to Read a Paper"-(https://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf)
 - **york.ac.uk**: "Being critical: Reading academic articles" - (https://subjectguides.york.ac.uk/critical/articles)
 
 ---
