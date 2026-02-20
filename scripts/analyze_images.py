@@ -32,7 +32,7 @@ def read_nvidia_api_key():
     raise ValueError("NVIDIA_API_KEY not found in .env file. Please add it to enable image analysis.")
 
 
-def find_image_context(image_path: Path, markdown_content: str, context_lines: int = 50) -> str:
+def find_image_context(image_path: Path, markdown_content: str, context_lines: int = 10) -> str:
     """根据图像文件名在 markdown 中定位上下文
 
     Args:
