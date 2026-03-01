@@ -33,8 +33,8 @@
 ### 1. 克隆到 Claude Skills 目录
 
 ```bash
-cd ~/.claude/skills/
 git clone <repo-url> paper-reader
+cp -r paper-reader/paper-reader ~/.claude/skills/
 ```
 
 或直接使用已有的 skill 目录
